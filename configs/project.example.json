@@ -1,0 +1,12 @@
+{
+  "project_name": "project-slug",
+  "project_path": "/ABSOLUTE/PATH/TO/YOUR/PROJECT",
+  "codex_path": "/opt/homebrew/bin/codex",
+  "codex_timeout_sec": 300,
+  "slack_token_env": "SLACK_BOT_TOKEN",
+  "slack_channel_id": "CXXXXXXXXXX",
+  "env_file": "/ABSOLUTE/PATH/TO/codex_test/.local_agent/.env",
+  "slack_timeout_sec": 20,
+  "skill_path": "/ABSOLUTE/PATH/TO/codex_test/skills/example_project_sweep/SKILL.md",
+  "main_session_id": "019xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}

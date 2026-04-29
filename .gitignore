@@ -1,0 +1,13 @@
+# 機密情報
+.local_agent/
+configs/*.json
+!configs/project.example.json
+skills/*
+!skills/
+!skills/example_project_sweep/
+!skills/example_project_sweep/**
+!skills/project_sweep_onboarding/
+!skills/project_sweep_onboarding/**
+launchd/*.plist
+!launchd/*.template
+!launchd/*.example.plist

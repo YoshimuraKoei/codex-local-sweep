@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Sweep Onboarding"
+  short_description: "Set up Codex Local Sweep for projects"
+  default_prompt: "Use $project-sweep-onboarding to add Codex Local Sweep to this project."
