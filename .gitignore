@@ -11,3 +11,6 @@ skills/*
 launchd/*.plist
 !launchd/*.template
 !launchd/*.example.plist
+
+diagrams/
+node_modules
